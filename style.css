@@ -1,0 +1,1091 @@
+head {
+    display: none;
+}
+
+:not(#\ ):not(#\ ):not(#\ ).buttonizer-group-0-0-1 {
+    left: 5%;
+    bottom: 25%;
+    display: flex;
+    z-index: 99999;
+    position: fixed;
+    visibility: hidden;
+    flex-direction: column-reverse;
+    transition: all 250ms ease-in-out 0s;
+}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+}
+
+.mm-slideout {
+    transition: -webkit-transform 0.4s ease;
+    transition: transform .4s ease;
+    transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+    z-index: 1;
+}
+
+.elementor-kit-10808 a {
+    font-size: 16px;
+}
+
+
+:not(#\ ):not(#\ ):not(#\ ).buttonizer-group-0-0-1 {
+    left: 5%;
+    bottom: 25%;
+    display: flex;
+    z-index: 99999;
+    position: fixed;
+    visibility: hidden;
+    flex-direction: column-reverse;
+    transition: all 250ms ease-in-out 0s;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+:not(#\ ):not(#\ ):not(#\ ).buttonizer-icon-0-0-32 {
+    top: 50%;
+    left: 50%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    font-size: 25px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    transition: all 250ms ease-in-out 0s;
+}
+
+.elementor-kit-10808 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-584d604f: #4054B2;
+    --e-global-color-3658903f: #23A455;
+    --e-global-color-37cceeb5: #000;
+    --e-global-color-29418f61: #FFF;
+    --e-global-color-e1caa9c: #FF8127;
+    --e-global-color-2324e3f: #AE6EE4;
+    --e-global-color-0d9208c: #02b3e4;
+    --e-global-color-6cfe963: #02ccba;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+    --e-global-typography-7fffa16-font-family: "Roboto";
+    --e-global-typography-7fffa16-font-size: 16px;
+    --e-global-typography-8839a86-font-family: "Roboto";
+    --e-global-typography-8839a86-font-size: 22px;
+    --e-global-typography-8839a86-font-weight: bold;
+    color: #5B5B5B;
+    font-family: "Roboto", Sans-serif;
+    font-size: 18px;
+}
+
+.mm-menu_offcanvas {
+    width: 80%;
+    min-width: 140px;
+    max-width: 440px;
+}
+
+
+
+img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+
+        
+#scrollTop{
+    margin: 30px;
+}
+
+#scrollTop {
+    display: inline-block;
+    background-color: #ecb101;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    border: 1px solid #ecb101;
+    transition: background-color 0.3s, opacity 0.5s, visibility 0.5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.elementor-kit-10808 a {
+    font-size: 16px;
+}
+
+a {
+    color: #aaa;
+}
+a {
+    color: #333;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    outline: 0;
+}
+#scrollTop::after {
+    content: "\f077";
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 50px;
+    color: #fff;
+}
+
+#scrollTop {
+    background-color: #8224e3;
+    border-color: #8224e3;
+}
+
+#scrollTop:hover {
+    background-color: #8224e390;
+    border-color: #8224e390;
+}
+
+
+#scrollTop {
+    border-radius: 100%;
+}
+
+
+
+#tophead a.topbar-btn,
+span.register-btn {
+    background-color: #dc84f4;
+    border-color: #dc84f4;
+}
+
+
+span.register-btn:hover {
+    border-color: #dc84f4;
+}
+
+.edumodo-header-1 a.micon {
+    background-color: #dc84f4;
+}
+
+#tophead .tophead-contact .fa,
+#tophead .tophead-address .fa,
+#tophead .tophead-contact a:hover,
+#tophead .tophead-right.top-v4 a:hover,
+span.register-btn:hover a {
+    color: #dc84f4;
+}
+
+
+body {
+    font-family: 'robotoregular';
+    font-size: 16px;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'montserratbold';
+}
+
+#menu-primary-1>li.current-menu-parent>a,
+#menu-primary-2>li.current-menu-parent>a,
+.navbar-default .navbar-nav>li>a:hover,
+.edumodo-current-menu-item>a {
+    color: #dc84f4 !important;
+}
+
+.edumodo-top-search input[type="submit"] {
+    color: #8224e3;
+    border-color: white;
+}
+
+.edumodo-top-search input[type="submit"]:hover {
+    border-color: #8224e3;
+}
+
+.site-title {
+    color: #8224e3;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    background: #8224e3;
+    border-color: #8224e3;
+}
+
+.btn {
+    background: #8224e3;
+    border-color: #8224e3;
+}
+
+span.post-date a:hover {
+    color: #8224e3;
+}
+
+.search-form label>input:focus {
+    border-color: #8224e3;
+}
+
+.edumodo-course-1 article.tx-course .course-details .course-meta .post-date a:hover {
+    color: #8224e3;
+}
+
+.comment-author.vcard a:hover {
+    color: #8224e3;
+}
+
+.comments-area .comment-metadata a:hover {
+    color: #8224e3;
+}
+
+.enter-related-course .edumodo-related-course-1 article.tx-course .course-details .course-meta span.course-cost {
+    color: #8224e3;
+}
+
+.archive .entry-header a:hover {
+    color: #8224e3 !important;
+}
+
+.single-notice .post-cat a:hover {
+    color: #8224e3;
+}
+
+.main-post.has-post-thumbnail .edumodo-post-img .entry-meta .post-cat a:hover {
+    color: #8224e3
+}
+
+.main-post.link-formate .link-content .icon-link {
+    color: #8224e3
+}
+
+.quote-format .entry-content.quote-content.quote:before {
+    color: #8224e3
+}
+
+.main-post .edit span.edit-link a:hover {
+    color: #8224e3
+}
+
+.main-post .content-body .entry-meta .post-cat a:hover {
+    color: #8224e3
+}
+
+.site-main .comment-navigation .nav-previous a:hover {
+    color: #8224e3
+}
+
+.single-post .entry-meta span.post-author a:hover,
+.single-post ul.post-categories li a:hover,
+.site-main .post-navigation .nav-next a:hover,
+.site-main .posts-navigation .nav-next a:hover,
+.site-main .comment-navigation .nav-next a:hover,
+.site-main .post-navigation .nav-previous a:hover,
+.site-main .posts-navigation .nav-previous a:hover {
+    color: #8224e3
+}
+
+#mc_embed_signup #tx-subscribe {
+    border-color: #8224e3
+}
+
+.widget-area .widget .tagcloud>a:hover {
+    color: #8224e3
+}
+
+.widget_calendar div.calendar_wrap table thead tr th,
+.widget_calendar div.calendar_wrap table tbody tr td#today {
+    background-color: #8224e3;
+}
+
+.widget_calendar div.calendar_wrap table thead tr th,
+.widget_calendar div.calendar_wrap table tbody tr td {
+    border-color: #8224e3;
+}
+
+.widget_calendar div.calendar_wrap table thead tr th {
+    border-color: #8224e390;
+}
+
+.single-post .entry-meta span a:hover {
+    color: #8224e3
+}
+
+.post-tags a:hover {
+    color: #8224e3
+}
+
+.single-post .edit a.post-edit-link:hover {
+    color: #8224e3
+}
+
+.single-post .post-tags a:hover {
+    color: #8224e3
+}
+
+.edumodo-pagination .page-numbers:hover {
+    border-left-color: #8224e3;
+}
+
+.edumodo-pagination .page-numbers:hover {
+    color: #8224e3;
+}
+
+.edumodo-pagination .page-numbers.current:hover {
+    color: white;
+}
+
+.edumodo-top-search input[type="submit"]:hover {
+    background-color: #8224e3;
+}
+
+.copyright a:hover,
+.copyright .social-icon a:hover {
+    color: #8224e3;
+}
+
+.post-password-form input[type="submit"] {
+    background-color: #8224e3;
+    border-color: #8224e3;
+}
+
+.edumodo-teacher-1 .teacher-person .overlay .person-info .social-links-teacher a:hover,
+.edumodo-teacher-1 .teacher-person .overlay .person-info .teacher-title a:hover {
+    color: #8224e3;
+}
+
+.widget-area .edumodo-social a {
+    background-color: #8224e3;
+}
+
+.single-course-post .course-content .course-meta span a:hover {
+    color: #8224e3;
+}
+
+.widget-area .widget a:hover {
+    color: #8224e3;
+}
+
+.footer .tagcloud a:hover,
+.footer .widget ul li a:hover {
+    color: #8224e3;
+}
+
+.footer .widget_calendar div.calendar_wrap table tfoot #prev a:hover,
+.widget_calendar td#next a:hover {
+    color: #8224e3;
+}
+
+.widget-area .edumodo-recent-post .recent-post .recent-entry-header .recent-entry-title a:hover {
+    color: #8224e3;
+}
+
+.course-teacher-carousel .owl-nav div,
+.content-list .owl-nav div {
+    background-color: #8224e3;
+}
+
+.single-course-post .course-content .course-meta .post-cat a:hover {
+    color: #8224e3;
+}
+
+.pingback .edit-link a:hover {
+    background-color: #8224e3;
+    border-color: #8224e3;
+}
+
+.woocommerce .woocommerce-message:before,
+.woocommerce-cart .woocommerce-message:before,
+.woocommerce-checkout .woocommerce-message:before,
+.woocommerce-account .woocommerce-message:before,
+.woocommerce .woocommerce-info:before,
+.woocommerce-cart .woocommerce-info:before,
+.woocommerce-checkout .woocommerce-info:before,
+.woocommerce-account .woocommerce-info:before,
+.woocommerce .woocommerce-breadcrumb a:hover,
+nav.woocommerce-breadcrumb a:hover,
+ul.learn-press-courses .course .course-title:hover,
+ul.learn-press-courses .course .course-info .course-instructor a:hover {
+    color: #8224e3 !important;
+}
+
+.woocommerce .woocommerce-message,
+.woocommerce-cart .woocommerce-message,
+.woocommerce-checkout .woocommerce-message,
+.woocommerce-account .woocommerce-message,
+.woocommerce .woocommerce-info,
+.woocommerce-cart .woocommerce-info,
+.woocommerce-checkout .woocommerce-info,
+.woocommerce-account .woocommerce-info {
+    border-top-color: #8224e3 !important;
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul li.is-active {
+    border-left-color: #8224e3 !important;
+}
+
+.woocommerce main#main .price,
+.woocommerce-cart main#main .price,
+.woocommerce-checkout main#main .price,
+.woocommerce-account main#main .price {
+    color: #8224e3;
+}
+
+.tribe-events-read-more,
+.tribe-events-day .type-tribe_events .edumodo-day-view .day-event-contant .tribe-events-list-event-title a:hover,
+#tribe-events-footer a:hover,
+.sensei-main-content .course-container .grid-enable .grid-course-content .link-to-the-full-course a,
+.sensei-main-content .sensei-course-filters a.active,
+.sensei-main-content .sensei-course-filters a:hover,
+.sensei-main-content .sensei-course-filters a.active:hover,
+.sensei-main-content a:hover,
+.lesson.type-lesson.status-publish.has-post-thumbnail.hentry.post h2 a {
+    color: #8224e3 !important;
+}
+
+.sensei-main-content .course-container .sensei-course-meta .course-price .woocommerce-Price-amount {
+    background-color: #8224e3;
+}
+
+.course .weforms-popup .weforms-popup-wrapper .popup-dismiss {
+    background-color: #8224e3;
+}
+
+.course .weforms-popup .weforms-popup-wrapper .wpuf-form input[type="submit"] {
+    background-color: #8224e3;
+}
+
+.single-course .i-am-single-course-header-row .edumodo-sensi-course-header .header-meta-wrapper .single-course-enroll-and-send-message-wrapper input[type="submit"]:hover,
+.single-course .i-am-single-course-header-row .edumodo-sensi-course-header .header-meta-wrapper .sensei-course-meta a:hover,
+.single-lesson .i-am-single-course-header-row .edumodo-sensi-course-header .header-meta-wrapper .sensei-course-meta a:hover {
+    color: #8224e3 !important;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="color"]:focus,
+textarea:focus {
+    border-color: #8224e3;
+}
+
+ul.wpuf-form li .wpuf-fields input[type=text]:focus,
+ul.wpuf-form li .wpuf-fields input[type=password]:focus,
+ul.wpuf-form li .wpuf-fields input[type=email]:focus,
+ul.wpuf-form li .wpuf-fields input[type=url]:focus,
+ul.wpuf-form li .wpuf-fields input[type=number]:focus,
+ul.wpuf-form li .wpuf-fields textarea:focus {
+    outline-color: #8224e3;
+    border-color: #8224e3;
+}
+
+.comments-area .comment-respond textarea:focus {
+    outline-color: #8224e3;
+    border-color: #8224e3;
+}
+
+.single-post .related-post .entry-header .entry-title a:hover {
+    color: #8224e3 !important;
+}
+
+.main-post .content-body .entry-header .entry-title a:hover {
+    color: #8224e3 !important;
+}
+
+.related-post-body .entry-header a:hover {
+    color: #8224e3 !important;
+}
+
+.single-post.format-gallery .owl-nav div,
+.woocommerce .checkout .place-order input.button.alt,
+.woocommerce-cart .checkout .place-order input.button.alt,
+.woocommerce-checkout .checkout .place-order input.button.alt,
+.woocommerce-account .checkout .place-order input.button.alt,
+.i-am-course-lesson-wrapper .sticky a:after {
+    background-color: #8224e3 !important;
+}
+
+.sensei-main-content button[type="submit"],
+.sensei-main-content a.send-message-button,
+.sensei-main-content input[type="submit"],
+.sensei-main-content .view-results,
+.sensei-main-content a.button {
+    background-color: #8224e3 !important;
+}
+
+.teacher-info .teachers-bio .teachers-name,
+.teacher-info .social a,
+.sensei-main-content .course-container .grid-enable .free-tag,
+.sensei-main-content .featured .course-title:before,
+.sensei-main-content .featured .header-meta-wrapper h1:before {
+    background-color: #8224e3 !important;
+}
+
+.single-post .post-thumbnail .post-triangle,
+.main-post .post-triangle {
+    border-right-color: #8224e3;
+}
+
+.comments-area .comment-content:before,
+.main-post.sticky .entry-header .sticky-post .post-round,
+.widget-area .widget .widget-title:before,
+.edumodo-header-2 .login-reg .register,
+.tribe-events-day .type-tribe_events .edumodo-day-view .day-event-contant .title-price .tribe-events-event-cost {
+    background: #8224e3;
+}
+
+.lp-archive-courses .tx-course-list .tx-couse-title a:hover {
+    color: #8224e3;
+}
+
+.learn-press-message {
+    border-left: 5px solid #8224e3 !important;
+}
+
+.learn-press-tabs .learn-press-nav-tabs .learn-press-nav-tab.active a {
+    color: #8224e3 !important;
+}
+
+.learn-press-tabs .learn-press-nav-tabs .learn-press-nav-tab.active {
+    border-bottom: 4px solid #8224e3 !important;
+}
+
+#learn-press-course-curriculum .section-header .meta .collapse {
+    background-color: #8224e3 !important;
+}
+
+#learn-press-course-curriculum .course-item .item-status {
+    color: #8224e3 !important;
+}
+
+#course-curriculum-popup #popup-main #popup-header {
+    background: #8224e3 !important;
+    border-bottom: 1px solid #8224e3 !important
+}
+
+.learnpress .learn-press-pagination ul li span.page-numbers.current {
+    background: #8224e3 !important;
+}
+
+.learnpress .learn-press-pagination ul li a:hover {
+    color: #8224e3 !important;
+}
+
+.single-lp_course .lpcourse-course-wapper-2 .edumodo-course-info .title:before,
+.lp-single-course .tx-course-main .edumodo-course-info .title:before,
+.learnp-ralated-course .title:before,
+.lpcourse-sidebar .edumodo-course-info .title:before,
+.lp-single-course .tx-course-main .edumodo-course-author .title:before {
+    background: #8224e3 !important;
+}
+
+.lp-single-course .course-top .course-info .learn-press-course-buttons .purchase-course button.button.purchase-button,
+.lp-single-course .course-top .course-info .learn-press-course-buttons .purchase-course button.button.enroll-button {
+    border-color: #8224e3;
+    color: #8224e3;
+}
+
+.entry-header a:hover,
+.lpcourse-sidebar .edumodo-course-info ul.course-info-list li i,
+.lpcourse-top-button .lp-button,
+.learnp-ralated-course .learnp-ralated-course-wrapper article.learnp-ralated-item .learnp-ralated-content .learnp-course-title a:hover {
+    color: #8224e3 !important;
+}
+
+.woocommerce main#main button[type="submit"],
+.woocommerce-cart main#main button[type="submit"],
+.woocommerce-checkout main#main button[type="submit"],
+.woocommerce-account main#main button[type="submit"],
+.woocommerce main#main a.button,
+.woocommerce-cart main#main a.button,
+.woocommerce-checkout main#main a.button,
+.woocommerce-account main#main a.button,
+.woocommerce main#main input[name="submit"],
+.woocommerce-cart main#main input[name="submit"],
+.woocommerce-checkout main#main input[name="submit"],
+.woocommerce-account main#main input[name="submit"],
+.woocommerce .woocommerce-cart-form input[type="submit"],
+.woocommerce-cart .woocommerce-cart-form input[type="submit"],
+.woocommerce-checkout .woocommerce-cart-form input[type="submit"],
+.woocommerce-account .woocommerce-cart-form input[type="submit"] {
+    background-color: #8224e3;
+}
+
+.edumodo-from ul.wpuf-form .wpuf-submit input[type=submit] {
+    border-color: #8224e3 !important;
+    background-color: #8224e3 !important;
+}
+
+.i-override-default-template a.tribe-events-button,
+.post-type-archive-tribe_events #tribe-events-content .tribe-events-loop .type-tribe_events .edumodo-event-loop-content-wrapper .edumodo-event-loop-content .edumodo-event-content-wrapper a:after,
+.post-type-archive-tribe_events input[type="submit"] {
+    background-color: #8224e3 !important;
+}
+
+div#mobile-menu {
+    background-color: #8224e3 !important;
+}
+
+
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+    background: #ffffff;
+    border-color: #ffffff;
+}
+
+.btn:hover {
+    background: #ffffff;
+    border-color: #ffffff;
+}
+
+.btn:hover,
+.btn:focus,
+.btn.focus {
+    background: #ffffff;
+}
+
+.btn:hover,
+.btn:focus,
+.btn.focus {
+    border-color: #ffffff;
+}
+
+.main-post .entry-meta {
+    background: #ffffff;
+}
+
+.enter-related-course .edumodo-related-course-1 article.tx-course figure a:before,
+.edumodo-course-1 article.tx-course figure a:before {
+    background-color: #ffffff80;
+}
+
+.course-teacher-carousel .owl-nav .owl-prev:hover,
+.content-list .owl-nav .owl-next:hover,
+    {
+    background-color: #ffffff !important;
+}
+
+.edumodo-course-1 article.tx-course figure a:after {
+    color: #ffffff;
+}
+
+#course-curriculum-popup #popup-main #popup-header .popup-close:hover,
+#course-curriculum-popup #popup-main #popup-header .sidebar-hide-btn:hover,
+#course-curriculum-popup #popup-main #popup-header .sidebar-show-btn:hover {
+    background: #ffffff !important;
+}
+
+.lpcourse-course-wapper-3 .lp-related-course .lp-course-1 .lp-course-thumbnail a:before,
+.lp-course3-heading:before,
+#learn-press-course-curriculum .course-item .item-status.item-status-completed,
+#learn-press-course-curriculum .course-item .item-status.item-status-passed {
+    background: #ffffff !important;
+}
+
+.lp-single-course .course-top .course-info .learn-press-course-buttons .purchase-course button.button.purchase-button:hover,
+.lp-single-course .course-top .course-info .learn-press-course-buttons .purchase-course button.button.enroll-button:hover {
+    border-color: #ffffff;
+    background: #ffffff;
+}
+
+.woocommerce main#main button[type="submit"]:hover,
+.woocommerce-cart main#main button[type="submit"]:hover,
+.woocommerce-checkout main#main button[type="submit"]:hover,
+.woocommerce-account main#main button[type="submit"]:hover,
+.woocommerce main#main a.button:hover,
+.woocommerce-cart main#main a.button:hover,
+.woocommerce-checkout main#main a.button:hover,
+.woocommerce-account main#main a.button:hover,
+.woocommerce main#main input[name="submit"]:hover,
+.woocommerce-cart main#main input[name="submit"]:hover,
+.woocommerce-checkout main#main input[name="submit"]:hover,
+.woocommerce-account main#main input[name="submit"]:hover,
+.woocommerce .woocommerce-cart-form input[type="submit"]:hover,
+.woocommerce-cart .woocommerce-cart-form input[type="submit"]:hover,
+.woocommerce-checkout .woocommerce-cart-form input[type="submit"]:hover,
+.woocommerce-account .woocommerce-cart-form input[type="submit"]:hover,
+.woocommerce .checkout .place-order input.button.alt:hover,
+.woocommerce-cart .checkout .place-order input.button.alt:hover,
+.woocommerce-checkout .checkout .place-order input.button.alt:hover,
+.woocommerce-account .checkout .place-order input.button.alt:hover {
+    background: #ffffff !important;
+}
+
+.edumodo-from ul.wpuf-form .wpuf-submit input[type=submit]:hover,
+.edumodo-from ul.wpuf-form .wpuf-submit input[type=submit]:focus,
+.edumodo-from ul.wpuf-form .wpuf-submit input[type=submit].focus {
+    border-color: #ffffff !important;
+    background-color: #ffffff !important;
+}
+
+.edumodo-header-2 .login-reg .register:hover {
+    background-color: #ffffff;
+}
+
+.i-override-default-template a.tribe-events-button:hover,
+.post-type-archive-tribe_events input[type="submit"]:hover {
+    background-color: #ffffff !important;
+}
+
+.sensei-main-content button[type="submit"]:hover,
+.sensei-main-content a.send-message-button:hover,
+.sensei-main-content input[type="submit"]:hover {
+    background-color: #ffffff !important;
+}
+
+.edumodo-lesson-send-message .button.send-message-button:hover {
+    color: white !important;
+}
+
+.course-teacher-carousel .owl-nav .owl-prev:hover,
+.content-list .owl-nav .owl-prev:hover {
+    background-color: #ffffff;
+}
+
+.widget-area .edumodo-social a:hover {
+    background-color: #ffffff;
+}
+
+.course-teacher-carousel .owl-nav .owl-next:hover,
+.content-list .owl-nav .owl-next:hover {
+    background-color: #ffffff;
+}
+
+.enter-related-course .edumodo-related-course-1 article.tx-course figure a:after {
+    color: #ffffff;
+}
+
+.edumodo-notice-1 article.notice figure a:before {
+    background-color: #ffffff80;
+}
+
+.edumodo-notice-1 article.notice figure a:after {
+    color: #ffffff;
+}
+
+.edumodo-top-search input[type="search"] {
+    background-color: #ffffff50;
+}
+
+.content-field .owl-nav .owl-prev:hover {
+    background-color: #ffffff;
+}
+
+.post-password-form input[type="submit"]:hover {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+
+.footer {
+    background-color: #222333;
+    color: #E1E1E1;
+    padding: 50px 0 30px;
+}
+
+.site-info {
+    padding: 30px 0 0px;
+}
+
+
+
+    .woocommerce-product-gallery {
+        opacity: 1 !important;
+    }
+
+
+
+
+
+    .elementor-social-icon i {
+        font-size: 30px;
+    }
+
+    .edumodo-testimonial-element .owl-controls .owl-dot.active {
+        background: #02B3E4;
+    }
+
+    .edumodo-testimonial-element .owl-controls .owl-dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 100%;
+        border: 1px solid #02B3E4;
+        margin-right: 5px;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .edumodo-letest-posts .letest-posts-1 .post-content-body span.blog-btn a {
+        color: #02B3E4;
+    }
+
+    .mc4wp-form-fields input[type="button"],
+    .mc4wp-form-fields input[type="reset"],
+    .mc4wp-form-fields input[type="submit"] {
+        padding-left: 15px;
+        padding-right: 15px;
+        color: lightslategray;
+        border-color: lightslategray;
+        -webkit-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
+        -o-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+        background: #ecb101;
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+    .copyright {
+        background-color: #000111;
+        font-size: 14px;
+        padding: 25px 0;
+        color: #ccc;
+    }
+
+    button,
+    input[type="button"],
+    input[type="reset"],
+    input[type="submit"] {
+        color: black;
+        padding-left: 18px;
+        padding-right: 18px;
+        -webkit-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
+        -o-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+        border-top-right-radius: 2px;
+        border-bottom-right-radius: 2px;
+        font-size: 14px;
+        font-weight: 700;
+    }
+
+    .main-post .entry-footer-body .readmore a {
+        color: white;
+        background: #AE7CE1;
+    }
+
+    .user-credit a {
+        color: #02B3E4;
+        Font-size: 15px;
+    }
+
+    .user-credit a:hover {
+        color: cyan;
+    }
+
+
+    .site-background {
+        background-color: #000000;
+    }
+
+    .site-title {
+        color: #000000;
+    }
+
+    .footer {
+        color: #FFFFFF;
+    }
+
+    .site-header {}
+
+    a {
+        color: #aaa;
+    }
+
+    a:hover {
+        color: #bbb;
+    }
+
+    a:active {
+        color: #ccc;
+    }
+
+    .site-header {
+        border-top: 3px solid #1e73be;
+        border-bottom: 3px solid #1e73be;
+        border-left: 3px solid #1e73be;
+        border-right: 3px solid #1e73be;
+    }
+
+    .site-header {
+        border-top: 3px solid #1e73be;
+        border-bottom: 3px solid #1e73be;
+        border-left: 3px solid #1e73be;
+        border-right: 3px solid #1e73be;
+    }
+
+    .site-header {
+        margin-top: 1em;
+        margin-right: 1em;
+        margin-bottom: 1em;
+        margin-left: 1em;
+    }
+
+    .heck-with-it {
+        max-width: 40;
+    }
+
+    p {
+        font-family: Roboto;
+        line-height: 25px;
+        font-weight: normal;
+        font-style: normal;
+        color: #7a7a7a;
+        font-size: 16px;
+        font-display: swap;
+    }
+
+    h2.site-description,
+    .entry-title {
+        font-family: Roboto;
+        line-height: 25px;
+        font-weight: normal;
+        font-style: normal;
+        color: #7a7a7a;
+        font-size: 16px;
+        font-display: swap;
+    }
+
+
+    .edumodo-header-1 .navbar-v1 .navigation-main>li>a:first-child,
+    .edumodo-header-1 span.login a,
+    .edumodo-header-1 span.register-btn a {
+        font-family: Roboto;
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    .edumodo-header-1 .navbar-v1 .navigation-main>li>a:first-child,
+    .home .edumodo-header-1.transparent-active.fixed-header .navbar-v1 .navigation-main>li>a:first-child,
+    .edumodo-header-1.sticky-active span.login a,
+    .edumodo-header-1.sticky-active.fixed-header span.login a,
+    .edumodo-header-1.sticky-active.transparent-active.fixed-header span.login a {
+        color: #787F88;
+    }
+
+    .edumodo-header-1.sticky-active.fixed-header .navbar-v1 .navigation-main>li.current-menu-item>a:first-child,
+    .edumodo-header-1.transparent-active .navbar-v1 .navigation-main>li.current-menu-item>a:first-child,
+    .edumodo-header-1 .navbar-v1 .navigation-main>li.current-menu-parent>a:first-child,
+    .edumodo-header-1 .navbar-v1 .navigation-main>li>a:first-child:hover,
+    .edumodo-header-1.sticky-active.fixed-header span.login a:hover,
+    .edumodo-header-1 span.login a:hover {
+        color: #dc84f4;
+    }
+
+    .edumodo-header-1 .navbar-v1 .navigation-main ul li>a {
+        font-display: swap;
+    }
+
+    .edumodo-header-1 .navbar-v1 .navigation-main .current-menu-item>a,
+    .edumodo-header-1 .navbar-v1 .navigation-main li:hover>a {
+        color: #9e03c1;
+    }
+
+    .site-info a:hover,
+    .site-info b,
+    .site-info .social-icon a:hover,
+    .site-info .list a:hover,
+    .single-post .related-post .entry-header .entry-title a:hover,
+    .single-post .edit a.post-edit-link:hover,
+    .edumodo-pagination .page-numbers:hover,
+    .learnp-ralated-course .learnp-ralated-course-wrapper article.learnp-ralated-item .learnp-ralated-content .learnp-course-title a:hover,
+    .lp-single-course .tx-course-main .course-summary span.course-author a,
+    .lp-single-course .course-top .course-info .course-meta a:hover,
+    . site-main .comment-navigation .nav-previous a span:hover,
+    .site-main .posts-navigation .nav-previous a span:hover,
+    .site-main .post-navigation .nav-previous a span:hover,
+    .site-main .comment-navigation .nav-next a span:hover,
+    .site-main .posts-navigation .nav-next a span:hover,
+    .site-main .post-navigation .nav-next a span:hover,
+    .single-post ul.post-categories li a:hover,
+    .single-post .post-tags a:hover,
+    .quote-format .entry-content.quote-content.quote:before,
+    .main-post .entry-meta .post-cat a:hover,
+    .main-post .edit span.edit-link a:hover,
+    .widget-area .edumodo-recent-post .recent-post .recent-entry-header .recent-entry-title a:hover,
+    .widget-area .widget a:hover,
+    #wp-calendar tfoot tr a,
+    #wp-calendar tbody td a,
+    #wp-calendar caption,
+    .edumodo-teacher-1 .teacher-person .overlay .person-info .teacher-title a:hover,
+    .site-info p a,
+    .footer .widget ul li a:hover {
+        color: #8224e3;
+    }
+
+    .edumodo-pagination .current,
+    .main-post .entry-header .sticky-post .post-round,
+    .content-field .owl-nav div,
+    .single-post .sticky-post .post-round,
+    #tx-trigger-effects button,
+    .tx-menu {
+        background: #8224e3;
+    }
+
+    .main-post .content-body .entry-meta,
+    .page-details:before,
+    .edumodo-teacher-1 .teacher-person .overlay,
+    .main-post.has-post-thumbnail .edumodo-post-img .entry-meta,
+    .content-field .owl-nav .owl-next:hover,
+    .entry-meta-mobile ul.post-categories {
+        background: #ffffff;
+    }
+
+
+
+
+
+    .contacto{
+        color:#483D8B;
+        font-size: 13px;
+    }
+#somos, #tabla{
+    color:#483D8B;
+}
+#floro{
+    color:#7B68EE;
+}
